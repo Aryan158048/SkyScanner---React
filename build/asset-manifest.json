@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SkyScanner---React/static/css/main.3a56ce8f.css",
+    "main.js": "/SkyScanner---React/static/js/main.57ca20ba.js",
+    "index.html": "/SkyScanner---React/index.html",
+    "main.3a56ce8f.css.map": "/SkyScanner---React/static/css/main.3a56ce8f.css.map",
+    "main.57ca20ba.js.map": "/SkyScanner---React/static/js/main.57ca20ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a56ce8f.css",
+    "static/js/main.57ca20ba.js"
+  ]
+}
