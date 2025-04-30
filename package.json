@@ -1,6 +1,7 @@
 {
   "name": "skyscanner-ultimate",
   "version": "0.1.0",
+  "homepage": "https://aryan158048.github.io/SkyScanner---React",
   "private": true,
   "dependencies": {
     "date-fns": "^3.3.1",
